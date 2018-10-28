@@ -2,7 +2,7 @@ TIME_LAP= 3600 # In Seconds
 ERROR_TIME_LAP = 10 # Seconds
 RETRY=15
 from scraper import site,handel
-# Site For Scraping >> This Url Is For Karachi Temperature
+# Site For Scraping >> This Url Is For Karachi Temperaturee
 #site="https://darksky.net/forecast/24.9294,67.1021/ca12/en"
 
 
